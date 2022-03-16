@@ -18,7 +18,7 @@ Using GitHub:
 4. Commit your changes to `R/samknows_data_analyst_tech_test.R`.
 5. Make a new private repository under your GitHub account.
 6. Push all changes to your private repository.
-7. Add `gabe-de-wit` (SamKnows employee) to your private repository.
+7. Add `emilywhite2`, `Michael-Stevens-27` and `rvv23` (SamKnows employees) to your private repository.
 
 Not using GitHub:
 
